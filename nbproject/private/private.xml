@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/modules/ModuleMemoire.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/metier/algorithme/Djikstra.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/modules/etats/EtatCrafterAuFourneau.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/modules/etats/EtatRessourceFourneau.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/metier/carte/Carte.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/metier/actions/ActionConstruire.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/metier/actions/ActionCraft.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/metier/carte/TypeBatiment.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/modules/etats/EtatInnocupe.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/test/forageria/metier/carte/CarteTest.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/modules/etats/EtatSeDeplacer.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/metier/carte/Case/Case.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/modules/etats/EtatCollecter.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/metier/actions/FabriqueAction.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/metier/actions/TypeAction.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/metier/carte/ressources/TypeMateriau.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/modules/etats/EtatConstruireFourneau.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/modules/etats/EtatTrouverSiteFourneau.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/modules/etats/EtatSiteFourneau.java</file>
+            <file>file:/C:/Users/natha/Desktop/confinement/Graphe/TP/TP%202/IA%20-%20Base/src/forageria/modules/etats/EtatCrafterRessource.java</file>
+        </group>
+    </open-files>
+</project-private>
